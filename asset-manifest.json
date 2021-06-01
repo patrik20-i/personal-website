@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/patrik20-i/personal-website/tree/main/personal-website/static/css/main.93886105.chunk.css",
+    "main.js": "/patrik20-i/personal-website/tree/main/personal-website/static/js/main.e9a0704b.chunk.js",
+    "main.js.map": "/patrik20-i/personal-website/tree/main/personal-website/static/js/main.e9a0704b.chunk.js.map",
+    "runtime-main.js": "/patrik20-i/personal-website/tree/main/personal-website/static/js/runtime-main.59d2ba9e.js",
+    "runtime-main.js.map": "/patrik20-i/personal-website/tree/main/personal-website/static/js/runtime-main.59d2ba9e.js.map",
+    "static/js/2.edae315b.chunk.js": "/patrik20-i/personal-website/tree/main/personal-website/static/js/2.edae315b.chunk.js",
+    "static/js/2.edae315b.chunk.js.map": "/patrik20-i/personal-website/tree/main/personal-website/static/js/2.edae315b.chunk.js.map",
+    "static/js/3.10897910.chunk.js": "/patrik20-i/personal-website/tree/main/personal-website/static/js/3.10897910.chunk.js",
+    "static/js/3.10897910.chunk.js.map": "/patrik20-i/personal-website/tree/main/personal-website/static/js/3.10897910.chunk.js.map",
+    "index.html": "/patrik20-i/personal-website/tree/main/personal-website/index.html",
+    "static/css/main.93886105.chunk.css.map": "/patrik20-i/personal-website/tree/main/personal-website/static/css/main.93886105.chunk.css.map",
+    "static/js/2.edae315b.chunk.js.LICENSE.txt": "/patrik20-i/personal-website/tree/main/personal-website/static/js/2.edae315b.chunk.js.LICENSE.txt",
+    "static/media/myimg.cea39c36.png": "/patrik20-i/personal-website/tree/main/personal-website/static/media/myimg.cea39c36.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.59d2ba9e.js",
+    "static/js/2.edae315b.chunk.js",
+    "static/css/main.93886105.chunk.css",
+    "static/js/main.e9a0704b.chunk.js"
+  ]
+}
